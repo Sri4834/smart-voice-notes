@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartVoiceSum ✨</string>
+    <string name="note_hint">Enter your note here…</string>
+    <string name="speak">Speak 🎤</string>
+    <string name="summarize">Summarize ✍️📝</string>
+    <string name="save">Save ✅</string>
+    <string name="share">Share 🔁📩</string>
+    <string name="progress_text">Processing…🛠️</string>
+    <string name="processing">Processing…</string>
+</resources>
